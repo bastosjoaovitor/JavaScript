@@ -12,7 +12,7 @@ Este repositório contém meus estudos de JavaScript, incluindo exemplos de cód
 - **DOM e Eventos**: Manipulação do Document Object Model e eventos de interação.
 - **Expressões Regulares**: Uso de expressões regulares para busca e validação de padrões.
 - **Manipulação de Formulários**: Captura de dados de formulários e validação.
-...
+  **...**
 
 ## 🚀 Contribuição
 
