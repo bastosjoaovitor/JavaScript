@@ -1,19 +1,23 @@
-# 📚 Estudos de JavaScript
+# JavaScript Studies
 
-Este repositório contém meus estudos de JavaScript, incluindo exemplos de código, projetos e recursos úteis.
+This repository contains my JavaScript studies, including code examples, projects, and useful resources.
 
-## 📘 Matérias Estudadas
+## Other Languages
 
-- **Introdução ao JavaScript**: Conceitos básicos, sintaxe e estrutura de dados.
-- **Variáveis e Tipos de Dados**: Declaração de variáveis, tipos de dados primitivos e operadores.
-- **Estruturas de Controle**: Uso de if/else, switch, for e while.
-- **Funções e Modularização**: Declaração de funções, parâmetros e retorno de valores.
-- **Arrays e Objetos**: Manipulação de arrays e objetos em JavaScript.
-- **DOM e Eventos**: Manipulação do Document Object Model e eventos de interação.
-- **Expressões Regulares**: Uso de expressões regulares para busca e validação de padrões.
-- **Manipulação de Formulários**: Captura de dados de formulários e validação.
-- **Outros**
+- [Versão em Português](README_pt-BR.md)
 
-## 🚀 Contribuição
+## Topics Covered
 
-Sinta-se à vontade para contribuir com novos exercícios, correções ou melhorias. Basta abrir uma issue ou enviar um pull request.
+- **Introduction to JavaScript**: Basic concepts, syntax, and data structures.
+- **Variables and Data Types**: Variable declaration, primitive data types, and operators.
+- **Control Structures**: Using if/else, switch, for, and while.
+- **Functions and Modularity**: Function declaration, parameters, and return values.
+- **Arrays and Objects**: Manipulating arrays and objects in JavaScript.
+- **DOM and Events**: Manipulating the Document Object Model and interaction events.
+- **Regular Expressions**: Using regular expressions for pattern search and validation.
+- **Form Handling**: Capturing form data and validation.
+- **Others**: Other relevant topics in the study of JavaScript.
+
+## Contribution
+
+Feel free to contribute with new exercises, corrections, or improvements. To contribute, open an issue or send a pull request.
